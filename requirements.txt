@@ -4,3 +4,20 @@ pydantic
 joblib
 pandas
 scikit-learn
+
+
+## 📋 Requirements & Dependencies
+
+This project relies on several key Python libraries for data processing, machine learning, and serving the predictive API via FastAPI.
+
+### Core Dependencies
+
+* **`fastapi`** (`^0.110.0`): Web framework used to build and serve the predictive API endpoints.
+* **`uvicorn`** (`^0.28.0`): High-performance ASGI web server used to run the FastAPI application.
+* **`pydantic`** (`^2.6.0`): Validates input payloads and request/response structures for API routes.
+* **`joblib`** (`^1.3.2`): Loads and saves serialized scikit-learn model pipelines and preprocessors.
+* **`pandas`** (`^2.2.0`): Handles tabular data manipulation, feature extraction, and dataset cleaning.
+* **`scikit-learn`** (`^1.4.0`): Implements machine learning models, scaling pipelines, and evaluation metrics.
+
+---
+
