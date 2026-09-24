@@ -32,3 +32,46 @@ Make sure you have Python installed on your machine (Python 3.8+ recommended).
    ```bash
    git clone [https://github.com/devs-shubham/MENTAL-HEALTH-SCORE-PREDECTION.git](https://github.com/devs-shubham/MENTAL-HEALTH-SCORE-PREDECTION.git)
    cd MENTAL-HEALTH-SCORE-PREDECTION
+
+   +-----------------------------+
+
+   PROJECTS FLPOW 
+                     |    Raw Data Collection      |
+                     |  (Personal, Environmental,  |
+                     |   & Mental Wellness Data)   |
+                     +--------------+--------------+
+                                    |
+                                    v
+                     +-----------------------------+
+                     |  Data Preprocessing & EDA   |
+                     |  • Handle Missing Values    |
+                     |  • Encode Categorical Vars  |
+                     |  • Feature Scaling          |
+                     |  • Correlation & Visuals    |
+                     +--------------+--------------+
+                                    |
+                                    v
+                     +-----------------------------+
+                     |      Data Splitting         |
+                     |   (Train vs. Test Sets)     |
+                     +--------------+--------------+
+                                    |
+                                    v
+                     +-----------------------------+
+                     |     Predictive Modeling     |
+                     |   (Scikit-learn / XGBoost   |
+                     |     Regression / Classif.)  |
+                     +--------------+--------------+
+                                    |
+                                    v
+                     +-----------------------------+
+                     |      Model Evaluation       |
+                     |   (RMSE, R² Score, MAE,     |
+                     |     or Accuracy Metrics)    |
+                     +--------------+--------------+
+                                    |
+                                    v
+                     +-----------------------------+
+                     |    Mental Health Score      |
+                     |       Prediction            |
+                     +-----------------------------+
